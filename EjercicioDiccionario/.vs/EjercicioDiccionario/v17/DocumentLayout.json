@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tpCoderCsharp\\EjercicioDiccionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41E43C2C-8D7B-46E6-802A-3B3B28A480C5}|EjercicioDiccionario\\EjercicioDiccionario.csproj|e:\\tpcodercsharp\\ejerciciodiccionario\\ejerciciodiccionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41E43C2C-8D7B-46E6-802A-3B3B28A480C5}|EjercicioDiccionario\\EjercicioDiccionario.csproj|solutionrelative:ejerciciodiccionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\tpCoderCsharp\\EjercicioDiccionario\\EjercicioDiccionario\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioDiccionario\\Form1.cs",
+              "ToolTip": "E:\\tpCoderCsharp\\EjercicioDiccionario\\EjercicioDiccionario\\Form1.cs [Design]",
+              "RelativeToolTip": "EjercicioDiccionario\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:07:41.962Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
