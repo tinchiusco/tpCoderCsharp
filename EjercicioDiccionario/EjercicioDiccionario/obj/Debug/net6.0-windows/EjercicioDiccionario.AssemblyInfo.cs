@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjercicioDiccionario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec4918cfa70a195ce0a31096632bb43c9ffd7ff2")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjercicioDiccionario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjercicioDiccionario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
