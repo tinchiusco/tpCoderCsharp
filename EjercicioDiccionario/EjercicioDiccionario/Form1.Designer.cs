@@ -1,6 +1,6 @@
 ﻿namespace EjercicioDiccionario
 {
-    partial class Form1
+    partial class Menu
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,57 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
-            button2 = new Button();
-            dataGridView1 = new DataGridView();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            lstMenu = new ListBox();
             SuspendLayout();
             // 
-            // button1
+            // lstMenu
             // 
-            button1.Location = new Point(511, 92);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 0;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            lstMenu.FormattingEnabled = true;
+            lstMenu.ItemHeight = 15;
+            lstMenu.Location = new Point(125, 103);
+            lstMenu.Name = "lstMenu";
+            lstMenu.Size = new Size(1077, 409);
+            lstMenu.TabIndex = 0;
             // 
-            // button2
-            // 
-            button2.Location = new Point(351, 95);
-            button2.Name = "button2";
-            button2.Size = new Size(75, 23);
-            button2.TabIndex = 1;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
-            // 
-            // dataGridView1
-            // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(94, 138);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.RowTemplate.Height = 25;
-            dataGridView1.Size = new Size(534, 232);
-            dataGridView1.TabIndex = 2;
-            // 
-            // Form1
+            // Menu
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(dataGridView1);
-            Controls.Add(button2);
-            Controls.Add(button1);
-            Name = "Form1";
+            ClientSize = new Size(1449, 602);
+            Controls.Add(lstMenu);
+            Name = "Menu";
             Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            Load += Menu_Load;
             ResumeLayout(false);
         }
 
         #endregion
 
-        private Button button1;
-        private Button button2;
-        private DataGridView dataGridView1;
+        private ListBox lstMenu;
     }
 }

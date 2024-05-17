@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\tpCoderCsharp\\EjercicioDiccionario\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41E43C2C-8D7B-46E6-802A-3B3B28A480C5}|EjercicioDiccionario\\EjercicioDiccionario.csproj|e:\\tpcodercsharp\\ejerciciodiccionario\\ejerciciodiccionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E43C2C-8D7B-46E6-802A-3B3B28A480C5}|EjercicioDiccionario\\EjercicioDiccionario.csproj|solutionrelative:ejerciciodiccionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41E43C2C-8D7B-46E6-802A-3B3B28A480C5}|EjercicioDiccionario\\EjercicioDiccionario.csproj|e:\\tpcodercsharp\\ejerciciodiccionario\\ejerciciodiccionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{41E43C2C-8D7B-46E6-802A-3B3B28A480C5}|EjercicioDiccionario\\EjercicioDiccionario.csproj|solutionrelative:ejerciciodiccionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E43C2C-8D7B-46E6-802A-3B3B28A480C5}|EjercicioDiccionario\\EjercicioDiccionario.csproj|e:\\tpcodercsharp\\ejerciciodiccionario\\ejerciciodiccionario\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E43C2C-8D7B-46E6-802A-3B3B28A480C5}|EjercicioDiccionario\\EjercicioDiccionario.csproj|solutionrelative:ejerciciodiccionario\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\tpCoderCsharp\\EjercicioDiccionario\\EjercicioDiccionario\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EjercicioDiccionario\\Form1.Designer.cs",
+              "ToolTip": "E:\\tpCoderCsharp\\EjercicioDiccionario\\EjercicioDiccionario\\Form1.Designer.cs",
+              "RelativeToolTip": "EjercicioDiccionario\\Form1.Designer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:09:06.036Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\tpCoderCsharp\\EjercicioDiccionario\\EjercicioDiccionario\\Form1.cs",
               "RelativeDocumentMoniker": "EjercicioDiccionario\\Form1.cs",
               "ToolTip": "E:\\tpCoderCsharp\\EjercicioDiccionario\\EjercicioDiccionario\\Form1.cs [Design]",
               "RelativeToolTip": "EjercicioDiccionario\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T21:07:41.962Z",
+              "WhenOpened": "2024-05-17T22:11:57.028Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\tpCoderCsharp\\EjercicioDiccionario\\EjercicioDiccionario\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioDiccionario\\Form1.cs",
+              "ToolTip": "E:\\tpCoderCsharp\\EjercicioDiccionario\\EjercicioDiccionario\\Form1.cs",
+              "RelativeToolTip": "EjercicioDiccionario\\Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:40:20.953Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,17 @@
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\bin\Debug\net6.0-windows\EjercicioDiccionario.exe
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\bin\Debug\net6.0-windows\EjercicioDiccionario.deps.json
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\bin\Debug\net6.0-windows\EjercicioDiccionario.runtimeconfig.json
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\bin\Debug\net6.0-windows\EjercicioDiccionario.dll
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\bin\Debug\net6.0-windows\EjercicioDiccionario.pdb
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\obj\Debug\net6.0-windows\EjercicioDiccionario.Menu.resources
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\obj\Debug\net6.0-windows\EjercicioDiccionario.csproj.GenerateResource.cache
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\obj\Debug\net6.0-windows\EjercicioDiccionario.GeneratedMSBuildEditorConfig.editorconfig
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\obj\Debug\net6.0-windows\EjercicioDiccionario.AssemblyInfoInputs.cache
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\obj\Debug\net6.0-windows\EjercicioDiccionario.AssemblyInfo.cs
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\obj\Debug\net6.0-windows\EjercicioDiccionario.csproj.CoreCompileInputs.cache
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\obj\Debug\net6.0-windows\EjercicioDiccionario.sourcelink.json
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\obj\Debug\net6.0-windows\EjercicioDiccionario.dll
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\obj\Debug\net6.0-windows\refint\EjercicioDiccionario.dll
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\obj\Debug\net6.0-windows\EjercicioDiccionario.pdb
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\obj\Debug\net6.0-windows\EjercicioDiccionario.genruntimeconfig.cache
+E:\tpCoderCsharp\EjercicioDiccionario\EjercicioDiccionario\obj\Debug\net6.0-windows\ref\EjercicioDiccionario.dll
